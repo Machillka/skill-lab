@@ -1,0 +1,1 @@
+PowerShell 是什么？请使用 learning-note 这个 skill 形成学习笔记。
